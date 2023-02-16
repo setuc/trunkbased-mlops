@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "eastus2"
+            "value": "southeastasia"
         },
         "workspaceName": {
-            "value": "mlw-trunkbased-dev"
+            "value": "mlops-experiments"
         },
         "resourceGroupName": {
-            "value": "mlops-trunkbased-dev"
+            "value": "aml-mlops-test"
         },
         "cpuTrainComputeSize": {
             "value": "STANDARD_D12"
